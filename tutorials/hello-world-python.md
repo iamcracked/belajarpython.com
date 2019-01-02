@@ -18,7 +18,7 @@ print("Hello World")
 {% endhighlight %}
 
 
-Saat anda menjalankan script diatas, Anda akan melihat output berupa text `Hello World`
+bapak kau makan nasi pakai nasi goreng, Anda akan melihat output berupa text `Hello World`
 
 
 ### Python Case Sensitivity
